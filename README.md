@@ -4,7 +4,6 @@
 🌱 I’m currently learning Backend Development with .NET, T-SQL, and improving my understanding of OOP concepts.  <br>
 👯 I’m looking to collaborate on beginner to intermediate C# and SQL projects.  <br>
 💬 Ask me about C#, SQL, application design, and project structuring.  <br>
-📫 How to reach me: [Send me an Email](https://mail.google.com/mail/?view=cm&to=mohamadsaeedalhomsi@gmail.com)  <br>
 😄 Pronouns: He/Him  <br>
 ⚡ Fun fact: I enjoy rebuilding and improving projects step by step to learn them deeply and professionally.<br><br>
 > 🚀 Upcoming: I will be adding my school project soon, with incremental updates showing my progress and new features.<br>
